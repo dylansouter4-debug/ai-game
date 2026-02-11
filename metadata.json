@@ -1,0 +1,5 @@
+{
+  "name": "C3 Forge",
+  "description": "A Construct 3 project generator and editor specialized in Top-Down Shooters, powered by Gemini.",
+  "requestFramePermissions": []
+}
